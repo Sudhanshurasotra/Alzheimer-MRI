@@ -1,1 +1,1 @@
-# Soft-Computing-Assignment-1
+# Alzheimer-MRI
